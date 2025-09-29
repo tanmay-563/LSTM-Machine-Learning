@@ -1,0 +1,15 @@
+# model artifacts
+model/model.pt
+model/scaler.pkl
+model/artifacts/
+# data
+data/*.csv
+model/artifacts/synthetic_epidemic_vitals.csv
+model/data/
+# python
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+frontend/node_modules/
