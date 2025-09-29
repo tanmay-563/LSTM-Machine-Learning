@@ -17,6 +17,5 @@ This project combines **data simulation**, **NLP-based analysis**, and **visual 
 
 ![AI Epidemiologist Screenshot](1.png)  
 
-*(Replace with additional screenshots like `2.png`, `3.png`, `4.png` if needed)*  
 
 ---
